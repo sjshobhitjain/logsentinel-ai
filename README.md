@@ -33,3 +33,4 @@ This tool analyzes Linux system logs (e.g., `/var/log/syslog`) and uses machine 
 2. Install dependencies:  
 ```bash
 pip install -r requirements.txt
+python src/main.py
